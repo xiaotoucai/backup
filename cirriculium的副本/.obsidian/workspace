@@ -1,0 +1,83 @@
+{
+  "main": {
+    "id": "7a62106f73fd90a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc26f96e1f607ea6",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "为什么文学史在书写中一定要预设一个意义？.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0868b280d1ca2d0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcab51af0c90c7ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61df6fbe99f45b4c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ac3767e924d1d496",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100
+  },
+  "right": {
+    "id": "c531680df657ffba",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bce3cc8c1ff2ca9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5488ffea17ee0df",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "为什么文学史在书写中一定要预设一个意义？.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled 1.md",
+    "文学史中的发展是什么？.md",
+    "文学史中充满判断.md",
+    "文学是一种价值判断.md"
+  ]
+}
