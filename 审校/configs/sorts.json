@@ -1,11 +1,14 @@
 {
     "": [
-        "\u7b2c\u4e8c\u7ae0.md"
+        "\u7b2c\u4e8c\u7ae0.md", 
+        "\u7b2c\u4e00\u7ae0"
     ], 
     "__positions": {
-        "\u7b2c\u4e8c\u7ae0.md": 1
+        "\u7b2c\u4e8c\u7ae0.md": 1, 
+        "\u7b2c\u4e00\u7ae0": 2
     }, 
     "__raw_positions": {
+        "\u7b2c\u4e00\u7ae0": 2, 
         "\u7b2c\u4e8c\u7ae0.md": 1
     }
 }
